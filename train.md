@@ -12,7 +12,7 @@ Highlights from my training work:
 * [Postman student program](#postman-student-program)
 * [Open practice training](#open-practice-training)
 
-## Fastly training with Glitch 
+<h2 id="fastly-training-with-glitch">Fastly training with Glitch</h2>
 
 One of my most successful programs at Fastly was running employee product training. It's a technical platform, and historically the company had struggled to get employees to try it. Glitch being acquired helped, because we could give everyone a test website of their own to try with Fastly CDN and edge computing services.
 
@@ -47,7 +47,7 @@ I built Fastly's first [certification](certify.html) program by initially testin
 
 This was the largest employee training program I've run, and formed a huge part of the **culture change** I was able to effect during my time at the company. It helped me forge relationships with many teams and start to establish product learning as a core part of the way we approached our work.
 
-## Postman student program
+<h2 id="postman-student-program">Postman student program</h2>
 
 At Postman I ran training workshops and guest lectured at partner organisations as part of the company's student program. This let me build an [automated learning framework](build.html), and create the platform's initial [certification](certify.html) program.
 
@@ -57,7 +57,7 @@ I delivered training at a variety of virtual and in-person events, including liv
 
 ![galaxy repo](galaxyrepo.png)
 
-## Open practice training
+<h2 id="open-practice-training">Open practice training</h2>
 
 > 📖 [Hacking Participation](http://hackaye.com/news/hacking-participation/) _– March 2015_
 

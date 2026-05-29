@@ -18,7 +18,7 @@ Some highlights of what I've built:
 * [Postman learning framework](#postman-learning-framework)
 * [Language models for learning](#language-models-for-learning)
 
-## Glitch for learning
+<h2 id="glitch-for-learning"> Glitch for learning</h2>
 
 ![glitch starters](glitchstarters.png)
 
@@ -59,7 +59,7 @@ When Glitch shut down, we had to find alternative paths both for Fastly users on
 
 I've begun the process of extending this to support new developers coming from vibe coding platforms, who want to learn web development by starting from an existing codebase they've exported. I believe LLM-generated code can act as a strong entry pathway for learning developer skills, given the right tooling and support.
 
-## Postman learning framework
+<h2 id="postman-learning-framework"> Postman learning framework</h2>
 
 At Postman, I developed a framework for transforming API responses into **dynamically generated** tutorials inside the product. This was one of many learning systems in which I used Glitch – designing APIs that taught the learner about themselves by returning structured metadata that Postman's HTML visualisation tooling rendered as interactive guides inside the HTTP client UI. I defined a standard format for these so that we could extend and coauthor similar experiences for customers and with partners.
 
@@ -71,7 +71,7 @@ We used my training framework for many guided community, customer, and employee 
 
 > 📖 [Using Glitch for Postman learning](https://blog.postman.com/learn-api-basics-postman-glitch/) _– June 2020_
 
-## Language models for learning
+<h2 id="language-models-for-learning"> Language models for learning</h2>
 
 In 2026 I'm working on IDE extensions using LLMs to help developers understand and interact with codebases. I believe codebase understanding is going to become more challenging and important than ever, and that we need much better tooling for it, so that's where I'm focusing. 
 
