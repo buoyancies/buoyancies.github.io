@@ -1,0 +1,164 @@
+:root {
+    --wrapper-height: 80vh;
+    --font-family: Arial, sans-serif;
+    --header-color: cornflowerblue;
+
+    --image-max-width: 140px;
+}
+
+body {
+    font-family: var(--font-family);
+    background-image: url("wallalpha.jpg");
+    background-size: 100vw;
+    background-repeat: repeat-y;
+}
+
+.wrapper {
+    /*            min-height: var(--wrapper-height);*/
+    margin: 3vw 2vh 0;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: whitesmoke;
+    border-left: 5px solid var(--header-color);
+    padding: 2rem 2rem 3rem;
+}
+
+h1,
+h2 {
+    color: var(--header-color);
+}
+
+img {
+    max-width: 100%;
+}
+
+img.avatar {
+    border: 3px solid var(--header-color);
+}
+
+.avatar-container {
+    display: flex;
+    justify-content: right;
+}
+
+.avatar {
+    max-width: var(--image-max-width);
+    max-height: var(--image-max-width);
+    margin: 1rem 0;
+    border-radius: 50%;
+}
+
+a:link,
+a:visited,
+a:hover {
+    text-decoration: none;
+    font-weight: bold;
+    color: coral;
+}
+
+.links {
+    width: 100%;
+    text-align: right;
+    color: lightgray;
+    margin-top: 1rem;
+}
+
+.links img {
+    padding: 0.5rem;
+}
+
+.links img:hover {
+    filter: brightness(0) saturate(100) invert(76%) sepia(37%) saturate(6125%) hue-rotate(326deg) brightness(103%) contrast(101%);
+}
+
+p,
+ul {
+    color: #282828;
+    line-height: 1.5em;
+    margin: 0.5rem 0;
+}
+
+/*
+        ul {
+            font-size: 1.1em;
+        }*/
+
+.social-icons {
+    justify-content: center;
+}
+
+.social-icons a:link {
+    border-bottom: none;
+    background: transparent;
+    width: 3rem;
+    height: 3rem;
+    margin: 0 0.3rem 1.5rem;
+    text-decoration: none;
+}
+
+.social-profile-icon {
+    width: 1.5rem;
+    margin-bottom: 1rem;
+    display: inline-flex;
+}
+
+.social-profile-icon path {
+    fill: white;
+}
+
+.social-profile-icon:hover path,
+.social-profile-icon:focus path {
+    fill: coral;
+}
+
+footer {
+    padding: 1rem;
+    text-align: right;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+blockquote {
+    border-left: 3px solid palegreen;
+    padding-left: 1rem;
+    padding-right: 0.5rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    background-color: ivory;
+}
+
+blockquote p, blockquote li {
+    color: steelblue;
+}
+blockquote em, li em {
+    color: lightseagreen;
+}
+
+@media (prefers-color-scheme: dark) {
+
+    :root {
+        --header-color: lightskyblue;
+    }
+
+    .links img {
+        filter: brightness(1.5);
+    }
+
+    .content {
+        background-color: darkslateblue;
+    }
+
+    p {
+        color: ghostwhite;
+    }
+
+    li::marker {
+        color: ghostwhite;
+    }
+
+}

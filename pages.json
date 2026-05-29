@@ -1,0 +1,11 @@
+{
+    "pages": [
+        "index",
+        "build",
+        "write",
+        "train", 
+        "certify",
+        "speak",
+        "advise"
+    ]
+}
