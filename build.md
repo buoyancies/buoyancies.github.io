@@ -4,7 +4,9 @@
 
 I have a pretty comprehensive track record in making technologies learnable. I can help you create self-directed developer learning supports for your software or team goals. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BJZ3niThD2s?si=DMjFFgwnKPGDC3_m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="ytembed">
+<iframe src="https://www.youtube.com/embed/BJZ3niThD2s?si=DMjFFgwnKPGDC3_m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 I typically aim to provide teams with the ability to continue authoring their own bespoke experiences. For that reason I've tended to build **extensible frameworks** for learning, with a foundation of material designed to get you started, delivered in context as learners engage with your tech.
 
