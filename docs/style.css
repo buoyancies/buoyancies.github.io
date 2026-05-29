@@ -203,3 +203,14 @@ li em {
         color: palegoldenrod;
     }
 }
+
+@media only screen and (max-width: 600px) {
+
+    .wrapper {
+        margin: 1vw 1vh 0;
+    }
+
+    .content {
+        padding: 1rem;
+    }
+}
