@@ -14,13 +14,13 @@ Highlights of my certification work:
 * [Fastly delivery and compute](#fastly-delivery-and-compute)
 * [Internal and external community at Postman](#internal-and-external-community-at-postman)
 
-## Mozilla Open Badges
+<h2 id="mozilla-open-badges">Mozilla Open Badges</h2>
 
 Working on the Open Badges team at Mozilla, as part of the Webmaker initiative, was an experience that still informs my approach to work today. I was responsible for creating learning material for the new certification standard and tooling. This got me very familiar with the APIs and mental models behind the approach. I went on to build badging programs for several companies and communities.
 
 > Used by many industry bodies, Open Badges are digital credentials aimed at creating a more authentic representation of a person’s skills and achievements than traditional qualifications.
 
-## Fastly delivery and compute
+<h2 id="fastly-delivery-and-compute">Fastly delivery and compute</h2>
 
 I implemented a self-hosted certification platform at Fastly – many of the low cost and free options have disappeared as SaaS pricing has shifted, but Open Badges are essentially a set of static files available at a URL, so you can host your own very cheaply (and I can help your teams build the tooling for it).
 
@@ -36,7 +36,7 @@ You can also co-author badges with partners or vendors, so they can form part of
 
 My customer and employee [training](train.html) programs have often acted as a test suite for certification systems I was developing. It's always a fun surprise to see how excited people are to share their accomplishments! 
 
-## Internal and external community at Postman
+<h2 id="internal-and-external-community-at-postman">Internal and external community at Postman</h2>
 
 ![postman badges](pmbadges.jpg)
 
@@ -46,6 +46,6 @@ Postman's student program was the first place I used badges as a catalyst for **
 
 If you're a developer product company, a certification program can contribute enormously to your **branding and marketing** efforts. A tip I can share is to **teach beyond the bounds of your own product**, reaching into the tech space you operate in – it's a great way to assert your ownership and authority within the area. 
 
-> For example, at Postman we taught "API skills" rather than Postman skills, and at Fastly we taught "edge computing" rather than focusing on our own products. Enabling people to be successful in their careers through your training and certification programs generates significant developer goodwill.
+> For example, at Postman we taught "API skills" rather than Postman skills, and at Fastly we taught "edge computing" rather than focusing on our own products. Enabling people to be successful in their careers through your training and certification programs generates a ton of developer goodwill.
 
 After working at Mozilla on the Hive Learning Network, I co-founded [Hack Aye](http://hackaye.com/blog/) in Scotland to help young people leverage open source technologies for creative and community projects. We also awarded badges for participation in collective projects.

@@ -22,7 +22,7 @@ Seeing the interest in product training inside the company, I approached it as a
 
 > 📖 [Learning at Fastly – A shared experience](https://www.fastly.com/blog/learning-at-fastly-a-shared-experience) _– July 2024_
 
-There was some scepticism that this training would be feasible for teams outside engineering, but I felt strongly that it would be a useful stress test of my resources – and a rich **pipeline of product feedback** that made employees feel more connected to the work we were collectively engaged in.
+There was some scepticism that this training would be feasible for teams outside engineering, but I felt strongly that employees would be able to interact with our tech, and that it would be a useful stress test of my resources – creating a rich **pipeline of product feedback** that made teams feel more connected to what we were collectively working towards.
 
 > It went like this:
 
@@ -41,7 +41,7 @@ Feedback on my training indicated that employees felt significantly more confide
 
 > Fastly ERGs (Employee Resource Groups) gave me a huge win with my training program. We were able to prioritise access through dedicated sessions which increased participation. 
 
-I built Fastly's first [certification](certify.html) program by initially testing it through the employee training sessions and a pilot program I ran with the developer community.
+I built Fastly's first [certification](certify.html) program by initially testing it through the employee training sessions and a pilot I ran with the developer community.
 
 ![fastly team on glitch](fastly-team-glitch-fish.jpg)
 
@@ -61,7 +61,7 @@ I delivered training at a variety of virtual and in-person events, including liv
 
 > 📖 [Hacking Participation](http://hackaye.com/news/hacking-participation/) _– March 2015_
 
-Back when I was running the non-profit I co-founded, I delivered training sessions to help young people utilise open web technologies, including facilitating a session at the Mozilla Festival. I've been able to bring learnings from community to company and back, benefitting both.
+Back when I was running the non-profit I co-founded, I delivered training sessions to help young people utilise open web technologies, including facilitating a session at the Mozilla Festival. I've been able to bring learnings from community to company and back.
 
 > 📖 [Hack Aye: Digital citizenship at MozFest](http://hackaye.com/news/digital-citizenship-at-mozfest/) _– November 2015_
 

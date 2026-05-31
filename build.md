@@ -30,7 +30,7 @@ Exploring the **product metrics** shortly after I joined, I discovered that user
 
 > 🎬 [My devrelcon talk in 2023](https://developerrelations.com/talks/an-open-framework-for-developer-learning/g) introduced an extensible framework I built for automated exercises.
 
-When Glitch became part of Fastly, I worked **across teams** to figure out how best to leverage Glitch for Fastly product onboarding, as part of our wider integration efforts. I was able to develop Glitch projects to support a variety of company goals including customer, community developer, and employee enablement.
+When Glitch joined Fastly, I worked **across teams** to figure out how best to leverage Glitch for Fastly product onboarding, as part of our wider integration efforts. I was able to develop Glitch projects to support a variety of company goals including customer, community developer, and employee enablement.
 
 Fastly is an internet infrastructure company, that gave me an opportunity to revisit web fundamentals in my teaching, with Glitch getting learners hands-on while immersed in the basics of how the web works.
 
@@ -51,7 +51,7 @@ Fastly is an internet infrastructure company, that gave me an opportunity to rev
 </tr>
 </table>
 
-One of the company's core products is an edge computing platform. Building for the edge remains a new topic to most developers, so onboarding means acquiring new **mental models**. Again, Glitch supported this by providing a tangible sense of developer workflows and implementation context. It's always a good idea to reach into **ecosystem topics** when you teach developer skills, but when your tech is part of the infrastructure it's essential.
+One of the company's primary products is an edge computing platform. Building for the edge remains a new topic to most developers, so onboarding means acquiring new **mental models**. Again, Glitch supported this by providing a tangible sense of developer workflows and implementation context. It's always a good idea to reach into **ecosystem topics** when you teach developer skills, but when your tech is part of the infrastructure it's essential.
 
 When Glitch shut down, we had to find alternative paths both for Fastly users onboarding via Glitch, and any Glitch users whose apps we could transition to Fastly Compute. Combined with the threat of losing the best teaching environment for web development I've ever had access to, this led me to build in-editor supports into GitHub Codespaces container configurations to create a similar experience to Glitch.
 
@@ -73,6 +73,6 @@ We used my training framework for many guided community, customer, and employee 
 
 <h2 id="language-models-for-learning"> Language models for learning</h2>
 
-In 2026 I'm working on IDE extensions using LLMs to help developers understand and interact with codebases. I believe codebase understanding is going to become more challenging and important than ever, and that we need much better tooling for it, so that's where I'm focusing. 
+In 2026 I'm working on IDE extensions using LLMs to help developers understand and interact with codebases. I believe code comprehension is going to become more challenging and important than ever, and that we need much better tooling for it, so that's where I'm focusing. 
 
-_I have a few other experiments in the works, stay tuned for more!_
+⏳ _I have a few other experiments in the works, stay tuned for more!_

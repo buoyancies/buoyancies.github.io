@@ -40,3 +40,5 @@ You can read my full work history on my personal site [benormal.info](https://ww
 Reach out by [email](mailto:suesmithglasgow@gmail.com) or connect with me on social media.
 
 _If you're working with a non-profit, especially if you're serving under-represented groups, I may be able to work out a reduced or waived fee._
+
+**Sue Smith, hi from Glasgow** 👋🏻 

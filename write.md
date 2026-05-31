@@ -34,7 +34,7 @@ Syndicating content across target audiences generates more impact from your inve
 
 ![dev.to posts](devto.png)
 
-I've found repeatedly that technical product companies don't maximise on the teaching abilities of their teams. **Enabling people** from engineering and other backgrounds to author content you publish through whichever channels you have available to you is not only a great way to fill your content pipeline, it's excellent marketing for any product aimed at a developer audience.
+I've found repeatedly that technical product companies don't maximise on the teaching abilities of their teams. **Enabling people** from engineering and other backgrounds to author content you publish through whichever channels you have available to you is not only a great way to fill your content pipeline, it's excellent marketing for any product aimed at a developer user.
 
 One of my most impactful contributions at Fastly was taking part in a company-wide effort to **unify teams** around our technical content site. This was an often challenging culture change process, but we ended up forging stronger collaborations between teams than I'd even hoped. I've led and supported this type of initiative a few times over the years, it's the kind of problem I love using communication skills to help solve.
 
