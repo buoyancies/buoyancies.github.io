@@ -8,9 +8,9 @@ I have a pretty comprehensive track record in making technologies learnable. I c
 <iframe src="https://www.youtube.com/embed/BJZ3niThD2s?si=DMjFFgwnKPGDC3_m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-I typically aim to provide teams with the ability to continue authoring their own bespoke experiences. For that reason I've tended to build **extensible frameworks** for learning, with a foundation of material designed to get you started, delivered in context as learners engage with your tech.
+I've tended to build **extensible frameworks** for learning, so that teams can continue authoring their own bespoke experiences. I'll provide a foundation of material covering curriculum topics designed as a starting point, delivered in context as learners engage directly with the relevant tech, for example in IDEs.
 
-My golden rule is to find opportunities to use learning experiences across settings. At both Postman and Fastly, I built a core set of self-directed learning projects, teaming up with colleagues in product, sales, marketing, and partner development to support their programs, while capturing feedback that improved product flows for users.
+I thoroughly recommend finding opportunities to deploy resources across settings. At both Postman and Fastly, I built a core set of self-directed learning projects, teaming up with colleagues in product, sales, marketing, and partner development to support their programs and capture feedback that improved product flows for users.
 
 Some highlights of what I've built:
 
@@ -28,11 +28,11 @@ Exploring the **product metrics** shortly after I joined, I discovered that user
 
 ![glitch framework](glitchframework.jpg)
 
-> 🎬 [My devrelcon talk in 2023](https://developerrelations.com/talks/an-open-framework-for-developer-learning/g) introduced an extensible framework I built for automated exercises.
+> 🎬 [My devrelcon talk in 2023](https://developerrelations.com/talks/an-open-framework-for-developer-learning/g) introduced a learning automation framework I built.
 
 When Glitch joined Fastly, I worked **across teams** to figure out how best to leverage Glitch for Fastly product onboarding, as part of our wider integration efforts. I was able to develop Glitch projects to support a variety of company goals including customer, community developer, and employee enablement.
 
-Fastly is an internet infrastructure company, that gave me an opportunity to revisit web fundamentals in my teaching, with Glitch getting learners hands-on while immersed in the basics of how the web works.
+Fastly is an internet infrastructure company – that gave me an opportunity to revisit web fundamentals in my teaching, with Glitch getting learners hands-on while immersed in the basics of how the web works.
 
 <table>
 <tr>
@@ -51,9 +51,9 @@ Fastly is an internet infrastructure company, that gave me an opportunity to rev
 </tr>
 </table>
 
-One of the company's primary products is an edge computing platform. Building for the edge remains a new topic to most developers, so onboarding means acquiring new **mental models**. Again, Glitch supported this by providing a tangible sense of developer workflows and implementation context. It's always a good idea to reach into **ecosystem topics** when you teach developer skills, but when your tech is part of the infrastructure it's essential.
+One of the company's products is an edge computing platform. Building for the edge remains a new topic to most developers, so onboarding means acquiring new **mental models**. Again, Glitch supported this by providing a tangible sense of developer workflows and implementation context. It's always worth reaching into **ecosystem topics** when you teach developer skills, but when your tech is part of the infrastructure it's essential.
 
-When Glitch shut down, we had to find alternative paths both for Fastly users onboarding via Glitch, and any Glitch users whose apps we could transition to Fastly Compute. Combined with the threat of losing the best teaching environment for web development I've ever had access to, this led me to build in-editor supports into GitHub Codespaces container configurations to create a similar experience to Glitch.
+When Glitch shut down, we had to find alternative paths both for Fastly users onboarding via Glitch, and any Glitch users whose apps we could transition to Fastly Compute. Combined with the threat of losing the best teaching environment for web development I've ever had access to, this led me to build in-editor supports via GitHub Codespaces container configurations to create a kind of Glitch-like experience.
 
 > 📖 [Enabling developers in GitHub Codespaces](https://dev.to/fastly/enabling-developers-in-github-codespaces-1l3a) _– October 2025_
 
@@ -61,13 +61,13 @@ I've begun the process of extending this to support new developers coming from v
 
 <h2 id="postman-learning-framework"> Postman learning framework</h2>
 
-At Postman, I developed a framework for transforming API responses into **dynamically generated** tutorials inside the product. This was one of many learning systems in which I used Glitch – designing APIs that taught the learner about themselves by returning structured metadata that Postman's HTML visualisation tooling rendered as interactive guides inside the HTTP client UI. I defined a standard format for these so that we could extend and coauthor similar experiences for customers and with partners.
+At Postman, I developed a framework for transforming API responses into **dynamically generated** tutorials inside the product. This was one of many learning systems in which I used Glitch – designing APIs that would teach the learner about themselves by returning structured metadata Postman's visualisation tooling rendered as interactive guides inside the product UI. I defined a standard format for these so that we could extend and coauthor similar experiences with customers and partners.
 
 > 📖 [Blog post about the framework](https://blog.postman.com/how-we-build-learning-experiences-inside-postman/) _– March 2021_
 
 ![api 101 collection](api101.jpg)
 
-We used my training framework for many guided community, customer, and employee workshops – I discovered the benefit of leveraging the same foundation of learning resources to power training in different settings. 
+We used my training framework for many guided workshops – I discovered the benefit of leveraging the same suite of learning resources to power training in different settings. 
 
 > 📖 [Using Glitch for Postman learning](https://blog.postman.com/learn-api-basics-postman-glitch/) _– June 2020_
 

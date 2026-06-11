@@ -1,6 +1,6 @@
 # Advice tailored to you
 
-There is no one-size-fits-all guidance for the transformational change we're going through with AI-assisted coding. I can't tell you exactly what you need to do to succeed through this, but what I can do is help you navigate it within the context of your own goals.
+There is no one-size-fits-all strategy for the transformational change we're going through with AI-assisted coding. I can't tell you exactly what you need to do to succeed through this, but what I can do is help you navigate it within the context of your own goals.
 
 > The primary piece of advice I'd give leaders right now is to support shared learning, cultivating activities such as pair programming and mentorship.
 
@@ -16,7 +16,7 @@ Again and again I've gravitated towards organisational change projects in the co
 
 At Fastly I had the opportunity to bring about significant culture change and transformation, with teams that had historically not been collaborating effectively learning to work towards shared goals by **building trust**.
 
-Adopting a learning mindset has allowed me to adapt to change and help others to develop resilience. **Organisations that successfully leverage new automations often do it by adopting learning practices.**
+Adopting a learning mindset has allowed me to adapt to change and help others to develop resilience. **Organisations that successfully leverage new automations do it by adopting learning practices.**
 
 > 📖 [What is worth learning?](https://dev.to/glitch/what-is-worth-learning-41e3) _– April 2024_
 

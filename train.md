@@ -10,7 +10,7 @@ Highlights from my training work:
 
 * [Fastly training with Glitch](#fastly-training-with-glitch)
 * [Postman student program](#postman-student-program)
-* [Open practice training](#open-practice-training)
+* [Open practice and formal settings](#open-practice-and-formal-settings)
 
 <h2 id="fastly-training-with-glitch">Fastly training with Glitch</h2>
 
@@ -22,7 +22,7 @@ Seeing the interest in product training inside the company, I approached it as a
 
 > 📖 [Learning at Fastly – A shared experience](https://www.fastly.com/blog/learning-at-fastly-a-shared-experience) _– July 2024_
 
-There was some scepticism that this training would be feasible for teams outside engineering, but I felt strongly that employees would be able to interact with our tech, and that it would be a useful stress test of my resources – creating a rich **pipeline of product feedback** that made teams feel more connected to what we were collectively working towards.
+There was some scepticism that this training would be feasible for teams outside engineering, but I felt strongly that employees would be able to interact with our tech, and that it would be a useful stress test of my resources – creating a rich **pipeline of product feedback** that made teams feel more connected to what we were building.
 
 > It went like this:
 
@@ -31,15 +31,15 @@ There was some scepticism that this training would be feasible for teams outside
 > * Run a session with a group of employees (typically a team of coworkers, sometimes mixed groups)
 > * Create the space for participants to let me know if they needed more explanation
 > * Incorporate that feedback into the training resources before the next session
-> * Transform the resources into self-serve docs and projects we'd publish for customers
+> * _Transform the resources into self-serve docs and projects we'd publish for customers_
 
 Using Glitch (later GitHub Codespaces) for this program meant attendees left with a project that included the instructions we'd walked through, so they could later revisit and even teach what they'd learned to their peers. It also meant I had **remixable resources** ready for deployment to users for independent learning.
 
 ![feedback](trainingfeedback.png)
 
-Feedback on my training indicated that employees felt significantly more confident in talking about the product, and in their own roles. 
+Feedback on my training indicated that employees felt significantly more confident talking about the product and in their own roles. 
 
-> Fastly ERGs (Employee Resource Groups) gave me a huge win with my training program. We were able to prioritise access through dedicated sessions which increased participation. 
+> Fastly ERGs (Employee Resource Groups) gave me a huge win with my training program. We were able to prioritise access through dedicated sessions, which increased participation. 
 
 I built Fastly's first [certification](certify.html) program by initially testing it through the employee training sessions and a pilot I ran with the developer community.
 
@@ -57,11 +57,11 @@ I delivered training at a variety of virtual and in-person events, including liv
 
 ![galaxy repo](galaxyrepo.png)
 
-<h2 id="open-practice-training">Open practice training</h2>
+<h2 id="open-practice-and-formal-settings">Open practice and formal settings</h2>
 
 > 📖 [Hacking Participation](http://hackaye.com/news/hacking-participation/) _– March 2015_
 
-Back when I was running the non-profit I co-founded, I delivered training sessions to help young people utilise open web technologies, including facilitating a session at the Mozilla Festival. I've been able to bring learnings from community to company and back.
+Back when I was running the non-profit I co-founded, I delivered training sessions to help young people utilise open web technologies, including facilitating a session at the Mozilla Festival. I've often been able to bring learnings from community to company and back.
 
 > 📖 [Hack Aye: Digital citizenship at MozFest](http://hackaye.com/news/digital-citizenship-at-mozfest/) _– November 2015_
 

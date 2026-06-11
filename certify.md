@@ -46,6 +46,6 @@ Postman's student program was the first place I used badges as a catalyst for **
 
 If you're a developer product company, a certification program can contribute enormously to your **branding and marketing** efforts. A tip I can share is to **teach beyond the bounds of your own product**, reaching into the tech space you operate in – it's a great way to assert your ownership and authority within the area. 
 
-> For example, at Postman we taught "API skills" rather than Postman skills, and at Fastly we taught "edge computing" rather than focusing on our own products. Enabling people to be successful in their careers through your training and certification programs generates a ton of developer goodwill.
+> For example, at Postman we taught "API literacy" rather than Postman skills, and at Fastly we taught "edge computing" rather than focusing on our own products. Enabling people to be successful in their careers through your training and certification programs generates a ton of developer goodwill.
 
 After working at Mozilla on the Hive Learning Network, I co-founded [Hack Aye](http://hackaye.com/blog/) in Scotland to help young people leverage open source technologies for creative and community projects. We also awarded badges for participation in collective projects.

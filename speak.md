@@ -1,6 +1,6 @@
 # Speaking
 
-If you'd like me to speak at your event let me know, availability and travel requirements permitting I can deliver standard content or create new material for a fee – _if you're a non-profit or serving under-represented groups lmk and we'll work something out_.
+If you'd like me to speak at your event, availability and travel requirements permitting, I can deliver standard content or create new material for a fee – _if you're a non-profit or serving under-represented groups lmk_.
 
 Earlier in my career I was very reticent about doing talks, I much preferred facilitating workshops. Participatory experiences are still very much my default way to communicate and connect, but after years of developer advocacy I learned to enjoy giving talks lol.
 
