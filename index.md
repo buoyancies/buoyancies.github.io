@@ -1,8 +1,8 @@
 # Infrastructures for learning 
 
-**Sue Smith, Glasgow** 👋🏻 
-
 Few organisations truly leverage the power of learning. We're on the cusp of a transformative shift in how we do software work, and the organisations that flourish will be those that create the conditions for shared learning. 
+
+**Leading cross-functional education initiatives for global developer communities including Glitch, Postman, and Fastly, I've created a framework to guide others looking to achieve similar transformation.**
 
 > 📖 [Pedagogy is the way](http://www.sue.codes/blog/pedagogyway/) _– May 2026_
 >
@@ -10,7 +10,7 @@ Few organisations truly leverage the power of learning. We're on the cusp of a t
 
 There is no universal guidance for building in the age of AI. It needs tailored to your software, teams, and business priorities. I can't tell you how to integrate LLMs into your company, but I can equip your leaders with tactics to inform those decisions, so that you can move forward with intention that reflects your priorities.
 
-**Leading cross-functional education initiatives for global developer communities including Glitch, Postman, and Fastly, I've created a framework to guide others looking to achieve similar transformation.** Whether you're building a product or setting your own teams up to succeed with new automations, I can bring you tried and tested practices, evolved through industry-leading developer enablement programs.
+Whether you're building a product or setting your own teams up to succeed with new automations, I can bring you tried and tested practices, informed by learning science and research, evolved through industry-leading developer enablement programs.
 
 > 📖 [We should still teach coding](https://dev.to/fastly/we-should-still-teach-coding-3cjh) _– March 2025_ 
 >
@@ -20,7 +20,7 @@ Many of the platforms I've worked on leveraged abstractions to enable people to 
 
 > With increased incidents and maintenance overhead, we're finding out the hard way that sacrificing codebase understanding comes at a cost. Balancing the efficiency gains from LLM code generation with the ability for teams to act effectively on your systems is the primary challenge in adopting AI tools. 
 
-## Why buoyancies?
+<h2>Why buoyancies?</h2>
 
 My approach to learning is hugely inspired by swimming. Effective swimming is about accepting the conditions you find yourself in, and developing your capacity to adapt. 
 
@@ -42,3 +42,5 @@ You can read my full work history on my personal site [benormal.info](https://ww
 Reach out by [email](mailto:suesmithglasgow@gmail.com) or connect with me on social media.
 
 _If you're working with a non-profit, especially if you're serving under-represented groups, I may be able to work out a reduced or waived fee._
+
+**Sue Smith, Glasgow** 👋🏻 
