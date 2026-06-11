@@ -75,6 +75,6 @@ We used my training framework for many guided community, customer, and employee 
 
 In 2026 I'm working on IDE extensions using LLMs to help developers understand and interact with codebases. I believe code comprehension is going to become more challenging and important than ever, and that we need much better tooling for it, so that's where I'm focusing. 
 
-> 📖 [Being intentional about friction](https://www.sue.codes/blog/whatfriction/)
+> 📖 [Being intentional about friction](https://www.sue.codes/blog/whatfriction/) _- June 2026_
 
 ⏳ _I have a few other experiments in the works, stay tuned for more!_
