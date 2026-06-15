@@ -2,6 +2,9 @@ const fs = require("fs");
 let hbs = require("handlebars");
 const pageTemplate = fs.readFileSync("./page.hbs", "utf8");
 const aPage = hbs.compile(pageTemplate);
+hbs.registerHelper('eq', function (a, b) {
+  return a === b;
+});
 const markdown = require("markdown").markdown;
 const pages = require("./pages.json");
 const he = require('he');

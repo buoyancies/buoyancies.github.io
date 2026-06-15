@@ -26,7 +26,7 @@ body {
     margin: 0 auto;
     background-color: whitesmoke;
     border-left: 5px solid var(--header-color);
-    padding: 2rem 2rem 3rem;
+    padding: 2rem;
 }
 
 h1,
@@ -73,6 +73,20 @@ a:hover {
     color: lightgray;
     margin-top: 1rem;
 }
+.foot-links {
+    text-align: center;
+    width: 100%;
+    color: lightgray;
+    margin-top: 2rem;
+    line-height: 2em;
+}
+.foot-links a:link, .foot-links a:visited {
+ color: var(--header-color);
+   
+}
+.foot-links img {
+    margin-bottom: -0.3rem;
+}
 
 .links img {
     padding: 0.5rem;
@@ -81,6 +95,10 @@ a:hover {
 .links img:hover {
     filter: brightness(0) saturate(100) invert(76%) sepia(37%) saturate(6125%) hue-rotate(326deg) brightness(103%) contrast(101%);
 }
+.foot-links a:link, .foot-links a:visited {
+    filter: brightness(0) saturate(100) invert(76%) sepia(37%) saturate(6125%) hue-rotate(326deg) brightness(103%) contrast(101%);
+}
+.foot-links a:hover { filter:none; }
 
 p,
 ul {
