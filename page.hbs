@@ -26,14 +26,15 @@
                     <a href="/"><img src="sueblue.jpg" class="avatar" alt="Sue Smith"></a>
                 </div>
                 <div class="links">
-                    {{#each pages}}<a href="{{this}}.html" title="{{this}}"><img src="{{this}}.svg"
-                            alt="{{this}}" /></a>{{/each}}
+                    {{#each pages}}{{#if (eq this "index")}}<a href="/" title="home"><img src="{{this}}.svg"
+                            alt="home" /></a>{{else}}<a href="{{this}}.html" title="{{this}}"><img src="{{this}}.svg"
+                            alt="{{this}}" /></a>{{/if}}{{/each}}
                 </div>
                 {{{content}}}
                 <div class="foot-links"> |
                     {{#each pages}}
                     {{#if (eq this "index")}}
-                    <a href="{{this}}.html" title="home"><img src="{{this}}.svg"
+                    <a href="/" title="home"><img src="{{this}}.svg"
                             alt="{{this}}" /> home</a>
                     {{else}}
                     <a href="{{this}}.html" title="{{this}}"><img src="{{this}}.svg"
