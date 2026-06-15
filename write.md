@@ -44,7 +44,7 @@ Developer enablement is most effective in context. This is what I loved about th
 
 ![todo content](todocontent.png)
 
-When you focus your education materials on experiences developers engage with in IDEs, you can also use them as the foundation of other activities. I've often taken this approach for training materials, using the feedback loop from live workshops to iterate on the content I'd also make available self-serve.
+When you focus your education material on experiences developers engage with in IDEs, you can also use them as the foundation of other activities. I've often taken this approach for training, using the feedback loop from live workshops to iterate on the content I'd also make available self-serve.
 
 <h2 id="looking-beyond-the-tech">Looking beyond the tech</h2>
 

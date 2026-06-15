@@ -12,11 +12,13 @@ I've worked at companies going through **staggering rates of growth**. While I w
 
 ![glitchy editing](glitchyediting.png)
 
+Adopting a learning mindset has allowed me to adapt to change and help others to develop resilience. 
+
 Again and again I've gravitated towards organisational change projects in the companies I've worked at. I'm a huge advocate for approaching challenges **systemically**, and building cultures for learning. I've brought leadership to many a period of difficult change, supporting teams through unsettling transitions. 
 
-At Fastly I had the opportunity to bring about significant culture change and transformation, with teams that had historically not been collaborating effectively learning to work towards shared goals by **building trust**.
+> Organisations that successfully leverage new automations do it by **adopting learning practices**.
 
-Adopting a learning mindset has allowed me to adapt to change and help others to develop resilience. **Organisations that successfully leverage new automations do it by adopting learning practices.**
+At Fastly I had the opportunity to bring about significant transformation, helping teams that had historically not been collaborating effectively learn to work towards shared goals by **building trust**.
 
 > 📖 [What is worth learning?](https://dev.to/glitch/what-is-worth-learning-41e3) _– April 2024_
 

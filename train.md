@@ -61,7 +61,7 @@ I delivered training at a variety of virtual and in-person events, including liv
 
 > 📖 [Hacking Participation](http://hackaye.com/news/hacking-participation/) _– March 2015_
 
-Back when I was running the non-profit I co-founded, I delivered training sessions to help young people utilise open web technologies, including facilitating a session at the Mozilla Festival. I've often been able to bring learnings from community to company and back.
+Back when I was running the non-profit I co-founded, I delivered training sessions to help young people utilise open web technologies, including facilitating a session at the Mozilla Festival. I've enjoyed being able to bring learnings from community to company and back again.
 
 > 📖 [Hack Aye: Digital citizenship at MozFest](http://hackaye.com/news/digital-citizenship-at-mozfest/) _– November 2015_
 

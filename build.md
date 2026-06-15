@@ -8,7 +8,7 @@ I have a pretty comprehensive track record in making technologies learnable. I c
 <iframe src="https://www.youtube.com/embed/BJZ3niThD2s?si=DMjFFgwnKPGDC3_m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-I've tended to build **extensible frameworks** for learning, so that teams can continue authoring their own bespoke experiences. I'll provide a foundation of material covering curriculum topics designed as a starting point, delivered in context as learners engage directly with the relevant tech, for example in IDEs.
+I've tended to build **extensible frameworks** for learning, so that teams can continue authoring their own custom experiences. I usually provide a foundation of material covering initial curriculum topics as a starting point, delivered in context as learners engage directly with the tech we're teaching, most commonly in IDEs.
 
 I thoroughly recommend finding opportunities to deploy resources across settings. At both Postman and Fastly, I built a core set of self-directed learning projects, teaming up with colleagues in product, sales, marketing, and partner development to support their programs and capture feedback that improved product flows for users.
 
@@ -24,7 +24,9 @@ Some highlights of what I've built:
 
 I created more Glitch apps for teaching developer skills than I can remember, after using the platform for several years at other companies. As Developer Experience Lead, I was responsible for the "Hello" starter projects, aimed at helping users learn web frameworks. These apps were designed specifically to support learning, exposing interactive content in the project documentation and app previews.
 
-Exploring the **product metrics** shortly after I joined, I discovered that users who made a first edit soon after remixing a project were significantly more likely to continue engaging over the longer term. Based on that, I added suggested first edits to the primary starter apps, and contributed a change to the editor that enabled navigating to source code locations on clicking in the preview pane.
+Exploring the **product metrics** shortly after I joined, I discovered that users who made a first edit soon after remixing a project were significantly more likely to continue engaging over the longer term. Based on that, I added suggested first edits to the primary starter apps, and contributed a change to the editor that enabled navigating to source code locations on clicking in the preview pane. 
+
+> Finding ways to **connect output to implementation** is the key to helping people learn developer skills.
 
 ![glitch framework](glitchframework.jpg)
 
@@ -57,11 +59,11 @@ When Glitch shut down, we had to find alternative paths both for Fastly users on
 
 > 📖 [Enabling developers in GitHub Codespaces](https://dev.to/fastly/enabling-developers-in-github-codespaces-1l3a) _– October 2025_
 
-I've begun the process of extending this to support new developers coming from vibe coding platforms, who want to learn web development by starting from an existing codebase they've exported. I believe LLM-generated code can act as a strong entry pathway for learning developer skills, given the right tooling and support.
+I've begun the process of extending this to support new developers coming from vibe coding platforms, who want to learn web development by starting from an existing codebase they've exported. **_I believe LLM-generated code can act as a strong entry pathway for learning developer skills, given the right tooling and support._**
 
 <h2 id="postman-learning-framework"> Postman learning framework</h2>
 
-At Postman, I developed a framework for transforming API responses into **dynamically generated** tutorials inside the product. This was one of many learning systems in which I used Glitch – designing APIs that would teach the learner about themselves by returning structured metadata Postman's visualisation tooling rendered as interactive guides inside the product UI. I defined a standard format for these so that we could extend and coauthor similar experiences with customers and partners.
+At Postman, I developed a framework for transforming API responses into **dynamically generated** tutorials inside the product. This was one of many learning systems in which I used Glitch – designing APIs that would teach the learner about themselves, by returning structured metadata Postman's visualisation tooling rendered as interactive guides inside the product UI. I defined a standard format for these so that we could extend and coauthor similar experiences with customers and partners.
 
 > 📖 [Blog post about the framework](https://blog.postman.com/how-we-build-learning-experiences-inside-postman/) _– March 2021_
 
